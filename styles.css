@@ -1,6 +1,16 @@
 :root {
-  --color-primary: rgb(64, 111, 199);
-  --color-bg: #fff;
+  --color-background: #FFF;
+  --color-foreground: #000;
+  --color-dark: #555;
+  --color-md-dark: #999;
+  --color-light: #F0EFEF;
+  --color-md-light: #EBE8E8;
+  --color-primary: #127AFF;
+  --color-info: #17A3B8;
+  --color-success: #28A845;
+  --color-danger: #DD3544;
+  --color-callout: #FDC107;
+  --color-lightest: #F8F9FA;
   --font-base-size: 18px;
 }
 
@@ -31,6 +41,6 @@ button {
   padding: 0.5rem 1rem;
   border: none;
   background-color: var(--color-primary);
-  color: var(--color-bg);
+  color: var(--color-background);
   margin: 0;
 }
