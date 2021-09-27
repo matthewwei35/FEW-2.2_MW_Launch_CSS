@@ -15,9 +15,9 @@ A custom CSS framework.
   - Set the line-height
   - Set the fore ground color 
   - Set the background color
-- [ ] Set a style for the headings h1-6
-  - [ ] Set the sizes of each of these. 
-  - [ ] Set other styles to get a look that you like. Consider these: 
+- [x] Set a style for the headings h1-6
+  - [x] Set the sizes of each of these. 
+  - [x] Set other styles to get a look that you like. Consider these: 
     - margin-top and margin-bottom
     - color 
     - font-weight
