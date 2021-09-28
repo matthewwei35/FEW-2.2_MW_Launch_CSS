@@ -103,3 +103,11 @@ input, textarea {
 .navbar ul a {
   margin: 0 0 0 1rem;
 }
+
+/* Code */
+
+pre {
+  color: var(--color-lightest);
+  background-color: var(--color-md-dark);
+  padding: 1rem;
+}
