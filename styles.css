@@ -1,11 +1,12 @@
 :root {
   --color-background: #FFF;
   --color-foreground: #000;
-  --color-dark: #23232b;
-  --color-md-dark: #555;
+  --color-dark: #23232B;
+  --color-md-dark: rgb(107, 105, 105);
   --color-light: #F0EFEF;
   --color-md-light: #EBE8E8;
   --color-primary: #127AFF;
+  --color-dark-primary: #1164D1;
   --color-info: #17A3B8;
   --color-success: #28A845;
   --color-danger: #DD3544;
