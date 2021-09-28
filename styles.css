@@ -77,11 +77,11 @@ input, textarea {
   padding: 0.5rem;
 }
 
-/* Navbar */
+/* Navbars */
 
 .navbar {
   background-color: var(--color-dark);
-  color: var(--color-md-light);
+  color: var(--color-lightest);
   display: flex;
   flex-direction: row;
   padding: 1rem;
