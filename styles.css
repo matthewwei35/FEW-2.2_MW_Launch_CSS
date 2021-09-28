@@ -38,6 +38,10 @@ a {
   color: var(--color-primary);
 }
 
+a:hover {
+  color: var(--color-dark-primary);
+}
+
 /* Buttons */
 
 button {
@@ -47,6 +51,10 @@ button {
   background-color: var(--color-primary);
   color: var(--color-background);
   margin: 0;
+}
+
+button:hover {
+  background-color: var(--color-dark-primary);
 }
 
 /* Form Styles */
